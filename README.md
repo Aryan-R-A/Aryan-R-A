@@ -8,13 +8,14 @@ My interests span software engineering, AI/ML and data science, distributed syst
 
 ## Selected work
 
+### Systems — Concurrent & distributed Game of Life
+[**Parallel Rust implementation · independent Bristol coursework extension**](https://github.com/Aryan-R-A/gol-rs-aryan)
+I independently implemented the **Rust extension** to Bristol’s Game of Life coursework, including parallel grid updates with Rayon, and collaborated with Aayush on the **Go implementations** using goroutines, channels and distributed controller/broker/worker services. The work explores synchronisation, data partitioning and the trade-off between computation and coordination.
+
 ### Software engineering — Scotland Yard
 [**Java game model · collaborative Bristol coursework**](https://github.com/Faulty-uni/West-Java)
 
 Graph-based legal moves, game-state transitions, ticket constraints and observer notifications, verified against all **83 supplied model tests** in an isolated Java 17/Maven run. My commit history records contributions to the game-state implementation and test-driven debugging. The repository includes university-provided scaffolding and work by my project partner.
-
-### Systems — Concurrent & distributed Game of Life
-I independently implemented the **Rust extension** to Bristol’s Game of Life coursework, including parallel grid updates with Rayon, and collaborated with Aayush on the **Go implementations** using goroutines, channels and distributed controller/broker/worker services. The work explores synchronisation, data partitioning and the trade-off between computation and coordination.
 
 ### Product development — Project AURA
 Co-founder and Product/Engineering Lead of an AI-assisted personalisation platform. I conducted **30 user interviews** to inform requirements, MVP priorities and the roadmap, and built a foundation using **Next.js, TypeScript and Supabase**.
